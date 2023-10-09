@@ -3,4 +3,7 @@ pip install virtualenv
 2. activate v envt.- either double click to activate/deactivate on the respective activate/deactivate folder or run-
   <path of my v envt, folder>\Scripts\activate    
 3> if restriction error occurs:
+  Give access: Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+  Revoke access: Set-ExecutionPolicy Restricted
+
 https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system
