@@ -1,6 +1,0 @@
-pip install pipreqs
-ways-
-1> open that folder with power shell>> pipreqs
-2> open that folder with power shell>> pipreqs --encoding=utf8
-3> open that folder with power shell>> pipreqs --encoding=utf8 --force
-https://www.youtube.com/watch?v=STiENJP4QiA
