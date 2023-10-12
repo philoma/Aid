@@ -1,0 +1,13 @@
+flask playlist: https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf
+                https://www.youtube.com/watch?v=dpGvQ__L4GI&list=PL2HQEyTmPppGlANLZS0quGmdNc3FTdi-8
+
+flask mail setup: https://www.geeksforgeeks.org/sending-emails-using-api-in-flask-mail/
+                  https://pythonbasics.org/flask-mail/
+
+Errors:
+1>Google disabled access to less secure apps:
+  https://myaccount.google.com/u/0/apppasswords
+  https://stackoverflow.com/questions/72493643/google-disabled-access-to-less-secure-apps
+
+2>flask-mail gmail: connection refused
+  https://stackoverflow.com/questions/18881929/flask-mail-gmail-connection-refused
