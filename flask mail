@@ -14,3 +14,5 @@ Errors n' solutions:
   https://stackoverflow.com/questions/18881929/flask-mail-gmail-connection-refused
 
 3> https://stackoverflow.com/questions/63666365/typeerror-can-only-concatenate-list-not-str-to-list
+
+4> https://stackoverflow.com/questions/19029360/attributeerror-str-object-has-no-attribute-filename-in-python
