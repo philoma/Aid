@@ -4,4 +4,7 @@ A> pip install pipreqs
     2> open that folder with power shell>> pipreqs --encoding=utf8
     3> open that folder with power shell>> pipreqs --encoding=utf8 --force
     https://www.youtube.com/watch?v=STiENJP4QiA
-B> pip freeze requirements.txt
+
+B> pip freeze requirements.txt (to see all used imports(on terminal) without creating requirements.txt)
+
+C> pip freeze > requirements.txt
