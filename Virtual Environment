@@ -1,7 +1,9 @@
 pip install virtualenv
 1.create v envt.>> python -m venv <name of my v envt.>
-2. activate v envt.- either double click to activate/deactivate on the respective activate/deactivate folder or run-
-  <path of my v envt, folder>\Scripts\activate    
+2. activate v envt.- either double click to activate/deactivate on the respective activate/deactivate file in folder or run-
+  <path of my v envt, folder>\Scripts\activate 
+  OR run-
+        source <venv_name>/bin/activate
 3> if restriction error occurs:
   Give access: Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
   Revoke access: Set-ExecutionPolicy Restricted
