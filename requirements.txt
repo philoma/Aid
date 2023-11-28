@@ -11,3 +11,7 @@ C> pip freeze > requirements.txt
 
 Errors:
 https://stackoverflow.com/questions/46854451/pip-install-r-requirements-txt-errno-2-no-such-file-or-directory-requiremen
+
+
+To use:
+pip install -r requirements.txt 
