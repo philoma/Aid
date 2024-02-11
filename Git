@@ -1,0 +1,5 @@
+to install directly from git:
+  pip install git+<HTTPS link>.git@main
+  ex- # Install the ultralytics package from GitHub
+        pip install git+https://github.com/ultralytics/ultralytics.git@main
+
